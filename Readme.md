@@ -1,8 +1,8 @@
-#Hola mundo desde Git
+# Hola mundo desde Git
 
-##Mi nombre es Mateo Urena 
+## Mi nombre es Mateo Urena 
 
-###Estoy estudiando Software
+### Estoy estudiando Software
 
 ---
 
